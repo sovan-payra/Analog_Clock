@@ -26,6 +26,4 @@ CSS3 (Styling & Animations)
 JavaScript (ES6) (Functionality & Time Updates)
 
 
-GitHub Link: [Your GitHub Repository Link] (if available)
-
 This project showcases fundamental web development skills, including DOM manipulation, event handling, and CSS animations, making it an excellent addition to a fresher’s resume.
